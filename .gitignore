@@ -1,8 +1,30 @@
+# Dependencies
 node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Environment
 .env
-.DS_Store
-*.log
+.env.local
+.venv/
+venv/
+
+# Data (created at runtime)
+data/
+
+# Build outputs
 dist/
 build/
 coverage/
+*.log
+
+# IDE
 .vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

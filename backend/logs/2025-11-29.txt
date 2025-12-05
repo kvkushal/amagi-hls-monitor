@@ -34,3 +34,52 @@
 2025-11-29 04:39:00 | HIGH     | STREAM: Bad Test          | ERROR: Error | {"url":"https://example.com/invalid.m3u8 ","code":"ETIMEDOUT","consecutiveErrors":21}
 2025-11-29 04:39:11 | HIGH     | STREAM: Bad Test          | ERROR: Error | {"url":"https://example.com/invalid.m3u8 ","code":"ETIMEDOUT","consecutiveErrors":22}
 2025-11-29 04:39:19 | INFO     | SYSTEM                    | Server shutting down
+2025-11-29 16:04:48 | INFO     | SYSTEM                    | Server started on port 5000
+2025-11-29 16:04:48 | INFO     | SYSTEM                    | MongoDB connected
+2025-11-29 16:39:19 | INFO     | WEBSOCKET                 | Client connected: zN23930bMi2_yUdiAAAC
+2025-11-29 16:39:19 | INFO     | WEBSOCKET                 | Client connected: 8n846hGA4VqlcWtCAAAF
+2025-11-29 16:39:24 | INFO     | WEBSOCKET                 | Client disconnected: 8n846hGA4VqlcWtCAAAF
+2025-11-29 16:42:56 | INFO     | WEBSOCKET                 | Client connected: 0-wyRN85d1bJWOKoAAAI
+2025-11-29 16:42:56 | INFO     | WEBSOCKET                 | Client connected: Z_u0o2H26VxfiTokAAAL
+2025-11-29 16:42:59 | INFO     | WEBSOCKET                 | Client disconnected: 0-wyRN85d1bJWOKoAAAI
+2025-11-29 16:42:59 | INFO     | WEBSOCKET                 | Client connected: e0qQrr-u6_BHYQo3AAAO
+2025-11-29 16:43:02 | INFO     | WEBSOCKET                 | Client disconnected: Z_u0o2H26VxfiTokAAAL
+2025-11-29 16:44:32 | INFO     | WEBSOCKET                 | Client disconnected: zN23930bMi2_yUdiAAAC
+2025-11-29 16:44:32 | INFO     | WEBSOCKET                 | Client connected: rwgIxZxR-BuTrvvRAAAR
+2025-11-29 16:46:49 | INFO     | WEBSOCKET                 | Client connected: 9ZFC9RW5t2ymWO2lAAAU
+2025-11-29 16:49:33 | INFO     | WEBSOCKET                 | Client disconnected: rwgIxZxR-BuTrvvRAAAR
+2025-11-29 16:49:33 | INFO     | WEBSOCKET                 | Client connected: 7KQRPcx9jAoFazx-AAAX
+2025-11-29 16:53:12 | INFO     | WEBSOCKET                 | Client connected: M22atf5E9T-mTK2xAAAc
+2025-11-29 16:53:12 | INFO     | WEBSOCKET                 | Client connected: wAPdmH2uvVLmZ_CsAAAd
+2025-11-29 16:53:15 | INFO     | WEBSOCKET                 | Client disconnected: M22atf5E9T-mTK2xAAAc
+2025-11-29 16:54:32 | INFO     | WEBSOCKET                 | Client disconnected: 7KQRPcx9jAoFazx-AAAX
+2025-11-29 16:54:33 | INFO     | WEBSOCKET                 | Client connected: STKQQjNRxw8h3-5aAAAg
+2025-11-29 16:56:25 | INFO     | WEBSOCKET                 | Client disconnected: 9ZFC9RW5t2ymWO2lAAAU
+2025-11-29 16:57:11 | INFO     | WEBSOCKET                 | Client connected: 2_KvcWcl26PdeAHkAAAl
+2025-11-29 16:57:11 | INFO     | WEBSOCKET                 | Client connected: mNM3_KICuhDVPUSfAAAm
+2025-11-29 16:57:13 | INFO     | WEBSOCKET                 | Client disconnected: mNM3_KICuhDVPUSfAAAm
+2025-11-29 16:57:14 | INFO     | WEBSOCKET                 | Client disconnected: wAPdmH2uvVLmZ_CsAAAd
+2025-11-29 16:57:13 | INFO     | WEBSOCKET                 | Client disconnected: e0qQrr-u6_BHYQo3AAAO
+2025-11-29 16:57:13 | INFO     | WEBSOCKET                 | Client disconnected: STKQQjNRxw8h3-5aAAAg
+2025-11-29 16:57:14 | INFO     | WEBSOCKET                 | Client disconnected: 2_KvcWcl26PdeAHkAAAl
+2025-11-29 17:22:43 | INFO     | WEBSOCKET                 | Client connected: wJKUB2z2DoBVJ3m7AAAp
+2025-11-29 17:25:52 | INFO     | WEBSOCKET                 | Client connected: LBn-wDCT26CXFFdEAAAs
+2025-11-29 17:25:55 | INFO     | WEBSOCKET                 | Client disconnected: LBn-wDCT26CXFFdEAAAs
+2025-11-29 17:25:56 | INFO     | WEBSOCKET                 | Client connected: E9bXEL-8Rtv2LGFOAAAv
+2025-11-29 17:25:57 | INFO     | WEBSOCKET                 | Client disconnected: E9bXEL-8Rtv2LGFOAAAv
+2025-11-29 17:25:57 | INFO     | WEBSOCKET                 | Client connected: AZM0y5eDqykPuxXVAAAy
+2025-11-29 17:25:58 | INFO     | WEBSOCKET                 | Client disconnected: AZM0y5eDqykPuxXVAAAy
+2025-11-29 17:25:58 | INFO     | WEBSOCKET                 | Client connected: Tw0Yr540ffE1Z61xAAA1
+2025-11-29 17:25:58 | INFO     | WEBSOCKET                 | Client disconnected: Tw0Yr540ffE1Z61xAAA1
+2025-11-29 17:25:59 | INFO     | WEBSOCKET                 | Client connected: Y163cnC1MqKom9iXAAA4
+2025-11-29 17:25:59 | INFO     | WEBSOCKET                 | Client disconnected: Y163cnC1MqKom9iXAAA4
+2025-11-29 17:25:59 | INFO     | WEBSOCKET                 | Client connected: 5Kj40grkZq0Y643sAAA7
+2025-11-29 17:26:17 | INFO     | WEBSOCKET                 | Client disconnected: 5Kj40grkZq0Y643sAAA7
+2025-11-29 17:26:18 | INFO     | WEBSOCKET                 | Client connected: o6RpPCrkeAl_nUvDAAA-
+2025-11-29 17:26:18 | INFO     | WEBSOCKET                 | Client disconnected: o6RpPCrkeAl_nUvDAAA-
+2025-11-29 17:26:18 | INFO     | WEBSOCKET                 | Client connected: OMrek4reLlYVmmuAAABB
+2025-11-29 17:30:47 | INFO     | WEBSOCKET                 | Client connected: t9-RQZ5KAslK0MApAABE
+2025-11-29 17:30:49 | INFO     | WEBSOCKET                 | Client disconnected: wJKUB2z2DoBVJ3m7AAAp
+2025-11-29 17:30:54 | INFO     | WEBSOCKET                 | Client disconnected: t9-RQZ5KAslK0MApAABE
+2025-11-29 17:32:00 | INFO     | WEBSOCKET                 | Client disconnected: OMrek4reLlYVmmuAAABB
+2025-11-29 17:57:20 | INFO     | SYSTEM                    | Server shutting down
